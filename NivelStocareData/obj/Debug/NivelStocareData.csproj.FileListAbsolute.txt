@@ -1,0 +1,9 @@
+C:\Users\STUDENT\source\repos\ConsoleApp2\NivelStocareData\bin\Debug\NivelStocareData.dll
+C:\Users\STUDENT\source\repos\ConsoleApp2\NivelStocareData\bin\Debug\NivelStocareData.pdb
+C:\Users\STUDENT\source\repos\ConsoleApp2\NivelStocareData\bin\Debug\LibrarieModele.dll
+C:\Users\STUDENT\source\repos\ConsoleApp2\NivelStocareData\bin\Debug\LibrarieModele.pdb
+C:\Users\STUDENT\source\repos\ConsoleApp2\NivelStocareData\obj\Debug\NivelStocareData.csproj.AssemblyReference.cache
+C:\Users\STUDENT\source\repos\ConsoleApp2\NivelStocareData\obj\Debug\NivelStocareData.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\ConsoleApp2\NivelStocareData\obj\Debug\NivelStocareData.csproj.CopyComplete
+C:\Users\STUDENT\source\repos\ConsoleApp2\NivelStocareData\obj\Debug\NivelStocareData.dll
+C:\Users\STUDENT\source\repos\ConsoleApp2\NivelStocareData\obj\Debug\NivelStocareData.pdb

@@ -1,0 +1,6 @@
+C:\Users\STUDENT\source\repos\ConsoleApp2\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\STUDENT\source\repos\ConsoleApp2\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\STUDENT\source\repos\ConsoleApp2\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\STUDENT\source\repos\ConsoleApp2\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\ConsoleApp2\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\STUDENT\source\repos\ConsoleApp2\LibrarieModele\obj\Debug\LibrarieModele.pdb
